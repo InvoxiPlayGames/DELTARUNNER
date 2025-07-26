@@ -1,6 +1,6 @@
 # DELTARUNNER Linux game_change implementation
 
-DELTARUNNER's implementation of game_change differs a lot from Windows, and acts closely to how it behaves on macOS.
+DELTARUNNER's implementation of game_change differs a lot from GMS game_change on Windows, and acts closely to how it behaves on macOS.
 
 When game_change is invoked, DELTARUNNER:
 * Sets environment variables to keep window state persistent. (inspired by macOS)
